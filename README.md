@@ -1,3 +1,6 @@
-This repository contains all the architecture, design and code artifacts required to understand vendorManagemenTools, the design, and ultimate technical implementation. It includes everything required to build a production environment for vendorManagemenTools, or smaller limited capability environments for the support of development, test, or demo activities.
+The previous iteration of managing contract proposals was to sift through paper based documents with no uniform standard.
+Then spending time looking for the information about the contractor from disparate sources.
 
-The repository is split into two separate sections. The as-is contains materials to the current state of vendorManagemenTools. The to-be contains architecture, design and code covering for the new environment.
+This project provides a unique opportunity to modernize the way the government selects contractors.
+
+The goal is to implement modern data tools to print out a document based report on the viability of the contractor bidding on the project based on the dataSources located here: https://github.com/datachimp/vendorMangagemenTools/tree/master/to-be/dataSources
